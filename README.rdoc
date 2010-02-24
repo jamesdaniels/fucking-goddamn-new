@@ -1,0 +1,17 @@
+= Fucking Goddamn New
+
+Everyone gets pissed at their code sometimes.
+
+Why shouldn't it work?
+
+== Installation
+
+  $ sudo gem install fucking-goddamn-new
+
+== Usage
+
+  $ irb
+  >> require 'fucking_goddamn_new'
+  => true
+  >> Object.fucking.goddamn.new
+  => #<Object:0x101486ed8>
