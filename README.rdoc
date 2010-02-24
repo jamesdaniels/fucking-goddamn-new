@@ -6,7 +6,7 @@ Why shouldn't it work?
 
 == Installation
 
-  $ sudo gem install fucking-goddamn-new
+  $ sudo gem install fucking_goddamn_new
 
 == Usage
 
